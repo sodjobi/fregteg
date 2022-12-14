@@ -33,4 +33,4 @@ cat <<EOF >/config.json
 }
 EOF
 
-/usr/local/bin/hana -config=/config.json
+/usr/local/bin/joten -config=/config.json
